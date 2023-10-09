@@ -4,4 +4,6 @@ a.out
 input
 *.class
 *.swp
+.idea/**
+baekjoon.iml
 __pycache__/
